@@ -1,4 +1,4 @@
-# Node-Version-Manager-List
+# Node.js Version Manager List
 
 | Repository | Issues | Stars |
 | :--- | ---: | ---: |
