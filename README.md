@@ -11,3 +11,7 @@
 | [nodebrew](https://github.com/hokaccha/nodebrew) | ![issues](https://img.shields.io/github/issues/hokaccha/nodebrew.svg) | ![activity](https://img.shields.io/github/commit-activity/y/hokaccha/nodebrew.svg) | ![stars](https://img.shields.io/github/stars/hokaccha/nodebrew?style=social) |
 | [nodenv](https://github.com/nodenv/nodenv) | ![issues](https://img.shields.io/github/issues/nodenv/nodenv.svg) | ![activity](https://img.shields.io/github/commit-activity/y/nodenv/nodenv.svg) | ![stars](https://img.shields.io/github/stars/nodenv/nodenv?style=social) |
 | [nodist](https://github.com/nullivex/nodist) | ![issues](https://img.shields.io/github/issues/nullivex/nodist.svg) | ![activity](https://img.shields.io/github/commit-activity/y/nullivex/nodist.svg) | ![stars](https://img.shields.io/github/stars/nullivex/nodist?style=social) |
+
+## Thanks
+
+https://shields.io/
